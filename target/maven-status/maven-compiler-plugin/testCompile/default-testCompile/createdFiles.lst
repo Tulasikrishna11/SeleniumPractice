@@ -1,8 +1,11 @@
 test1\Alerts.class
 test1\ShadowRoot.class
+test1\BaseClass.class
 test1\IFrame.class
 test1\MutipleWindows.class
 test1\DragAndDropTest.class
+test1\LoginTestTwo.class
 test1\MiniProject.class
+test1\ListenerClass.class
 com\cognizant\seleniumPractice\AppTest.class
 test1\ReportsClass.class
